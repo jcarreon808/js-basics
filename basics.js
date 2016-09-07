@@ -4,6 +4,9 @@ var myName = "JP";
  * `name`, assign it the same name as before,
  * as well as an `age` (number);
  */
+var person = {};
+person.name = "JP";
+person.age = 26;
 
 /* Create a variable called `canDrive`,
  * if it should be true if your person object is at least 16 years old
